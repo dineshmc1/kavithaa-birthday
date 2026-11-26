@@ -38,5 +38,5 @@ const chapters = [
 ]
 export const bookPages = chapters
 export const gallery = [
-  {src:'/photos/cutouts/traditional-both.png',label:'பாரம்பரியம்'}, {src:'/photos/cutouts/casual-both.png',label:'எளிய நாள்'}, {src:'/photos/cutouts/kavithaa-traditional.png',label:'அவள் ஒளி'}, {src:'/photos/cutouts/kavithaa-messy.png',label:'அவள் சிரிப்பு'}
+  {src:'/kavithaa-birthday/photos/cutouts/traditional-both.png',label:'பாரம்பரியம்'}, {src:'/kavithaa-birthday/photos/cutouts/casual-both.png',label:'எளிய நாள்'}, {src:'/kavithaa-birthday/photos/cutouts/kavithaa-traditional.png',label:'அவள் ஒளி'}, {src:'/kavithaa-birthday/photos/cutouts/kavithaa-messy.png',label:'அவள் சிரிப்பு'}
 ]
